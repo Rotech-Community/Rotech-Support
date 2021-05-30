@@ -5,13 +5,12 @@ title: 'Please invite me to the GitHub Community Organization'
 labels: invite me to the organization
 ---
 
-Please invite me to the GitHub Community Organisation.
+**_Please invite me to the GitHub Community Organization._**
 
 - #### Full Name:
 
 - #### Discord Username(if exists):
 
-- #### Email Address: 
-
 - #### Country : 
 
+_Please join our Discord Server :_ 
