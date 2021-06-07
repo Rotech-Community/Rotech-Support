@@ -13,4 +13,4 @@ labels: invite me to the organization
 
 - #### Country : 
 
-_Please join our Discord Server :_ 
+_Please join our Discord Server :_  https://discord.gg/gw22FEcB
